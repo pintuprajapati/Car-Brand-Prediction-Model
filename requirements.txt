@@ -130,6 +130,7 @@ numpy==1.19.5
 numpydoc @ file:///tmp/build/80754af9/numpydoc_1594166760263/work
 oauthlib==3.1.1
 olefile==0.46
+opencv-python==4.5.3.56
 openpyxl @ file:///tmp/build/80754af9/openpyxl_1594167385094/work
 opt-einsum==3.3.0
 packaging==20.4
@@ -261,4 +262,3 @@ zict==2.0.0
 zipp==3.1.0
 zope.event==4.4
 zope.interface==4.7.1
-
