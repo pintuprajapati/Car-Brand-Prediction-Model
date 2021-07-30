@@ -17,7 +17,7 @@ attrs
 autopep8
 Babel
 backcall
-backports.shutil-get-terminal-size @ 
+backports.shutil-get-terminal-size
 bcrypt
 beautifulsoup4
 bitarray
